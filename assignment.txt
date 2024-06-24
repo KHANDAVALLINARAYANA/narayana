@@ -1,0 +1,49 @@
+import java.util.Scanner;
+class Sample
+{
+  public static void main(String args[])
+  {
+    int l=5,b=7,area,p;
+area=l*b;
+p=2*(l+b);
+System.out.println("area="+ area);
+System.out.println("perimeter of the rectangle="+ p);
+    
+}
+}
+Class Hero
+{
+public static void main(String []args){
+int a=2345,b,c,d,e;
+b=a+8;
+c=b/3;
+d=c%5;
+e=d*5;
+System.out.println("result="+d);
+}}
+class Zero
+{
+public static void main(String[] args){
+int a=23,b=45;
+System.out.println(a==b);
+}}
+class One{
+public static void main(String[] args){
+
+int a=2,b=3,c=5,d;
+d=a+b+c;
+System.out.println("perimeter of yhe triangle="+d);
+}}
+class Two{
+public static void main(String[]args){
+int a=78,b=45,c=62,;
+ float d=a+b+c;
+System.out.println("total marks="+c);
+int full=300;
+Float pertcentage=(c/full)*100
+System.out.println("pertcentage="=+pertcentage);}}
+
+
+
+
+
